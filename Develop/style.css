@@ -25,6 +25,7 @@ textarea {
 }
 
 .row {
+  margin: 5px;
   border-top: 1px solid #BF930F;
 }
 
@@ -47,6 +48,10 @@ textarea {
 .future {
   background-color: #33691e;
   color: white;
+}
+
+#hour-17 {
+  margin-bottom: 40px;
 }
 
 /* Buttons */
