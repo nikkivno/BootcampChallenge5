@@ -18,7 +18,7 @@ Features to include to make this website even more functional:
 
 ## Deployed Website Link and Image
 
-<img src="Develop/Images/website-preview.png">
+<img src="Develop/images/website-preview.png">
 
 ## License
 
